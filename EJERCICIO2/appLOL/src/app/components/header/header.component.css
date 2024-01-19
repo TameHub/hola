@@ -1,0 +1,16 @@
+
+
+header{
+    background-image: url(../../../imgs/fondoLoL.jpg);
+    background-repeat: no-repeat;
+    height: 180px;
+    margin: -30px -5px -5px;
+}
+h1{
+    font-size: 50px;    
+    display: block;
+    text-align: center;
+    padding-top: 40px;
+    color: white;
+    text-shadow: 1px 1px 9px black;
+}

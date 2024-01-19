@@ -1,0 +1,28 @@
+menu{
+    background-color: #131931;
+    display: inline-block;
+    width: 35%;
+}
+h2{
+    color:white;
+    margin-bottom: -2%;
+}
+ul{
+    color: white;
+    list-style-type:none;
+    margin-left: -30px;
+}
+
+li{
+    padding: 8px;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+
+a:hover{
+    color:lightblue;
+}

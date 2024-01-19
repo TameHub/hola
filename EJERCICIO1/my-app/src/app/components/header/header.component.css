@@ -1,0 +1,9 @@
+header{
+    width: 1000px;
+    font-size: 35px;
+    margin: auto;
+    background-color: lightblue;
+    padding:20px;
+    display: flex;
+    flex-direction: row-reverse;
+}
